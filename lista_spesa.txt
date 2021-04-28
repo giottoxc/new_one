@@ -2,3 +2,7 @@ patate
 cipolle
 sedano
 carote
+finocchi
+sale grosso 
+farina
+
