@@ -5,4 +5,5 @@ carote
 finocchi
 sale grosso 
 farina
+piselli
 
